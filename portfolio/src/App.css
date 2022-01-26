@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+  margin: 10px auto;
+  max-width: 1280px;
+  padding: 0px 30px; 
+  min-height: 100vh;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: #000000be;
+  color: #fdf5f596
+}
+
+@media (min-widh: 800px){
+  .app{
+    padding: 0 100px;
+    margin-top: 5vh;
+    min-height: 90vh;
+  }
+}
