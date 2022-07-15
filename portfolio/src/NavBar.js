@@ -65,7 +65,7 @@ const NavBar = () => {
                         </li>
                       
                         <li>
-                            <Link onClick={handleClose} to='/contact'>Contact</Link>
+                            <Link onClick={handleClose} to='/Projects'>Projects</Link>
 
                         </li>
                     </ul>
