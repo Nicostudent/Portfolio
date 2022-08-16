@@ -6,7 +6,7 @@ const About = () => {
         <div className='about'>
             <p>
             Hi, I'm Nico, I'm 35 years old. I recently finished a Javascript programming bootcamp, if you want you can see my certificate 
-            <a href='https://certificates.soyhenry.com/cert?id=657318fd-cd1e-48d2-bac5-5ae58c2177df'> here </a>.
+            <a href='https://certificates.soyhenry.com/cert?id=657318fd-cd1e-48d2-bac5-5ae58c2177df' target="_blank"> here </a>.
              I started a year ago, and being my first contact with the IT world, I found it strange and complicated.
               Since then it has been quite a while and I learned a lot, I would love to have my first work experience in this field,
                with a good group to be able to learn, grow and develop as a programmer.
